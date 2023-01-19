@@ -16,7 +16,7 @@
 ![ItsAakash'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAakashz&show_icons=true&theme=radical)
 
 <!--spotify-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq)
 
 <!--markdown-->
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
