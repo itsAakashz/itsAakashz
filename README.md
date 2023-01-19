@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
 **itsAakashz/itsAakashz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/f94280915387286308a5f.jpg">
