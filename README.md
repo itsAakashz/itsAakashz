@@ -12,6 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAakashz&layout=compact)](https://github.com/itsAakashz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAakashz&layout=compact)](https://github.com/itsAakashz/github-readme-stats)
+
 ![ItsAakash'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAakashz&show_icons=true&theme=radical)
 
 <!--markdown-->
