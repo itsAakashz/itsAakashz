@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAakashz&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAakashz&layout=compact)](https://github.com/itsAakashz/github-readme-stat) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaakashz&layout=compact&theme=vision-friendly-dark)](https://github.com/itsaakashz/github-readme-stats)
 
 ![ItsAakash'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAakashz&show_icons=true&theme=radical)
 
