@@ -10,4 +10,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAakashz&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 <br>
-![](https://komarev.com/ghpvc/?username=itsAakashs)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
