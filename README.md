@@ -8,9 +8,7 @@
 <!--
 <img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/f94280915387286308a5f.jpg">
 -->
-<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAakashz&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
-<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsAakashz&layout=compact)](https://github.com/itsAakashz/github-readme-stats)
