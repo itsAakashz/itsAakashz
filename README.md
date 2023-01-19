@@ -5,9 +5,10 @@
 - 📫 How to reach me:<a href="https://itsaakashz.github.io/"> visit my website</a>...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<! --
 <img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/f94280915387286308a5f.jpg">
 <br>
-
+-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAakashz&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 
