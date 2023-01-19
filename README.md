@@ -30,4 +30,4 @@
 
 <!--spotify-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq)
-<a href="upi://pay?pa=itsAakashz@paytm&amp;pn=Aakash kumar &amp;cu=INR" Pay Now</a>
+Donate me on itsAakashz@paytm
