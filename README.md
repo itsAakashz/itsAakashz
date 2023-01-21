@@ -30,5 +30,6 @@
 
 <!--spotify-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq)
-<iframe src="https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq" title="description"></iframe>
+
+<img align="right" alt="Coding" width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq">
 Donate me on itsAakashz@paytm
