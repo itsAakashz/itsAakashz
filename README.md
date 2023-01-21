@@ -10,7 +10,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAakashz&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-itsaakashz)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaakashz&layout=compact&theme=vision-friendly-dark)](https://github.com/itsaakashz/github-readme-stats)
 
 ![ItsAakash'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAakashz&show_icons=true&theme=radical)
@@ -24,7 +24,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![](https://komarev.com/ghpvc/?username=your-github-itsaakashz)
 
 
 
