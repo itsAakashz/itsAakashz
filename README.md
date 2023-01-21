@@ -31,5 +31,6 @@
 <!--spotify-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq)
 
-<img align="right" alt="Coding" width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 Donate me on itsAakashz@paytm
