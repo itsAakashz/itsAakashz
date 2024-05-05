@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=35&duration=6000&pause=1200&color=FF0202&random=false&width=435&lines=Aakash+Gupta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=35&duration=6000&pause=1200&color=FF0202&random=false&width=435&lines=Aakash+Gupta)](#)
 - 🔭 I’m currently working on web development...
 - 🌱 I’m currently learning java script...
 - 🤔 I’m looking for helps on web dev.. projects.
