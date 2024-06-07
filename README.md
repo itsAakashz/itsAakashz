@@ -12,8 +12,9 @@
 - 👯 I’m looking to collaborate on a Html/CSS/JavaScript project.. 
 - ⚡ Fun fact: The average person blinks about 20 times per minute, but people on computers only blink about seven times per minute.
 
-
+<!--
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAakashz&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
