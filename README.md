@@ -22,6 +22,14 @@
 
 ![ItsAakash'z GitHub stats](https://github-readme-stats.vercel.app/api?username=itsAakashz&show_icons=true&theme=radical)
 
+
+
+
+<!--spotify-->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--markdown-->
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -33,12 +41,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://komarev.com/ghpvc/?username=your-github-itsaakashz)
 
-
-
-<!--spotify-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Donate me on(UPI)- itsAakashz@paytm
