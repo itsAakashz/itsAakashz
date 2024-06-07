@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/itsAakashz/ItsAakashz/master/name.svg" alt="Aakash Gupta" />
+  <img src="https://raw.githubusercontent.com/itsAakashz/itsAakashz/master/name.svg" alt="Aakash Gupta" />
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=35&duration=6000&pause=1200&color=FF0202&random=false&width=435&lines=Aakash+Gupta)](#)
