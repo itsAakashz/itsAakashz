@@ -42,6 +42,10 @@
 Awarded: Oct 30, 2024
 
 <p align="center">
+  <img src="https://vault.pictures/p/8b40d5d359ae456f8c79bdead61f36b9" alt="Image Description" width="600" height="300">
+</p>
+
+<p align="center">
   <a href="https://itsaakashz.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website" /></a>
   <a href="https://www.linkedin.com/in/itsaakashz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/itsaakashz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
