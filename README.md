@@ -42,7 +42,7 @@
 Awarded: Oct 30, 2024
 
 <p align="center">
-  <img src="https://vault.pictures/p/8b40d5d359ae456f8c79bdead61f36b9" alt="Image Description" width="600" height="300">
+  <img src="https://github.com/itsAakashz/itsAakashz/blob/main/images/HNG-AAKASHUU.png" alt="Image Description" width="600" height="300">
 </p>
 
 <p align="center">
