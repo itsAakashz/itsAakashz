@@ -34,7 +34,7 @@
 
 ## Badges
 
-[![Postman API Fundamentals Student Expert](https://media.badgr.com/uploads/badges/assertion-O9cidU4CQjiInS5zWPF3LQ.png?versionId=jTeefPEo3bssjKS58MuOAvuJtiTd.jp7)]
+![Postman API Fundamentals Student Expert](https://media.badgr.com/uploads/badges/assertion-O9cidU4CQjiInS5zWPF3LQ.png?versionId=jTeefPEo3bssjKS58MuOAvuJtiTd.jp7)
 
 [View Online](https://api.badgr.io/public/assertions/O9cidU4CQjiInS5zWPF3LQ?identity__email=gzatrop%40gmail.com)
 
