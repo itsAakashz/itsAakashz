@@ -34,11 +34,12 @@
 
 ## Badges
 
-[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/O9cidU4CQjiInS5zWPF3LQ/image)](https://api.badgr.io/public/assertions/O9cidU4CQjiInS5zWPF3LQ?identity__email=gzatrop%40gmail.com)
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/O9cidU4CQjiInS5zWPF3LQ/image)]
+
+[View Online](https://api.badgr.io/public/assertions/O9cidU4CQjiInS5zWPF3LQ?identity__email=gzatrop%40gmail.com)
 
 **Postman API Fundamentals Student Expert**  
 Awarded: Oct 30, 2024
-
 
 <p align="center">
   <a href="https://itsaakashz.github.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website" /></a>
