@@ -16,7 +16,7 @@
 
 <h2 align="center"><span style="color: #FF5722;">About Me</span></h2>
 <p align="center">
-  Hi! I'm <span style="color: #FF5722; font-weight: bold;">Aakash Kumar</span>, a tech enthusiast and innovator from Bihar, India. Currently, I'm a 12th-grade student passionate about web development and graphic design. My expertise includes HTML, CSS, JavaScript, Node.js, MongoDB, and Bootstrap.
+  Hi! I'm <span style="color: #FF5722; font-weight: bold;">Aakash Kumar</span>, a tech enthusiast and innovator from Bihar, India. Currently, I'm currently persuing B.tech in cse-iot from Greater Noida Insitute of Technology passionate about web development and graphic design. My expertise includes HTML, CSS, JavaScript, Node.js, MongoDB, and Bootstrap.
 </p>
 
 <h3 align="center"><span style="color: #FF5722;">Technical Proficiency</span></h3>
