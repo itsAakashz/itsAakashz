@@ -40,7 +40,7 @@
 **Postman API Fundamentals Student Expert**  
 Awarded: Oct 30, 2024
 
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" />
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp"  width="150px" height="150px" />
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
