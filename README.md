@@ -118,9 +118,6 @@ Awarded: Oct 30, 2024
   Donate me on (UPI): <span style="color: #FF5722; font-weight: bold;">itsAakashz@paytm</span>
 </p>
 -->
----
-
-
 
 Aakash Kumar: A Tech Enthusiast and Innovator
 <p>
