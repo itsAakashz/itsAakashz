@@ -113,11 +113,11 @@ Awarded: Oct 30, 2024
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsaakashz" alt="Profile Views" style="margin: 5px;" />
 </p>
-
+<!--
 <p align="center">
   Donate me on (UPI): <span style="color: #FF5722; font-weight: bold;">itsAakashz@paytm</span>
 </p>
-
+-->
 ---
 
 
