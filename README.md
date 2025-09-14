@@ -83,9 +83,11 @@ Awarded: Oct 30, 2024
   <a href="https://github.com/itsaakashz/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=itsAakashz&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ctmspmtvwuha23yrnaxsxtizfq" alt="Spotify Recently Played" />
 </p>
+-->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" />
