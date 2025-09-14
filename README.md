@@ -123,16 +123,5 @@ Awarded: Oct 30, 2024
 
 Aakash Kumar: A Tech Enthusiast and Innovator
 <p>
-Aakash Kumar, a prodigious young coder from Bihar, India, is currently a 12th-grade student making remarkable strides in the tech world. His expertise spans a range of technologies including HTML, CSS, JavaScript, Node.js, MongoDB, and Bootstrap. Aakash's passion for web development is evident in his projects, which range from dynamic websites to sophisticated telegraph bots. He is also delving into graphic design and is on the cusp of launching a tech solutions website.
-
-Technical Proficiency
-Web Development: HTML, CSS, JavaScript
-Backend Technologies: Node.js, MongoDB
-Frameworks and Libraries: Bootstrap
-Other Skills: Graphic Design
-Projects and Interests
-Aakash is driven by a deep curiosity and a desire to solve problems through code. His projects reflect a blend of creativity and technical skill, from building responsive websites to developing innovative bots. Outside of coding, Aakash enjoys music and incorporates his artistic sensibilities into his tech endeavors.
-
-Aakash is committed to continuous learning and is eager to explore new technologies and challenges in the tech field. His work not only showcases his technical abilities but also his dedication to creating impactful digital solutions.
-I am dedicated to continuous learning and always eager to explore new technologies and challenges. My ultimate goal is to leverage my skills to create impactful digital solutions.
+Hi, I’m Aakash Kumar, a passionate Full-Stack Developer and BTech CSE (IoT) student at GNIOT, Greater Noida. I love exploring how technology can solve real-world problems and create a meaningful impact — especially in ed-tech, sustainability, and smart
 </p>
